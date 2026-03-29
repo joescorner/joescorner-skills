@@ -22,7 +22,8 @@ Built on the [Agent Skills](https://agentskills.io) open standard.
 In any Claude Code session, run:
 
 ```
-/plugin install joescorner/joescorner-skills
+/plugin marketplace add joescorner/joescorner-skills
+/plugin install joescorner-skills@joescorner-skills
 ```
 
 

@@ -1,0 +1,15 @@
+{
+  "name": "joescorner-skills",
+  "description": "Agent skills for Joe's Corner",
+  "owner": {
+    "name": "joescorner",
+    "url": "https://github.com/joescorner"
+  },
+  "plugins": [
+    {
+      "name": "joescorner-skills",
+      "description": "Query Joe's Corner, a news and content aggregator built for the AI age",
+      "source": "./"
+    }
+  ]
+}
