@@ -1,0 +1,14 @@
+{
+  "name": "joescorner-skills",
+  "version": "1.0.0",
+  "description": "Query Joe's Corner, a news and content aggregator built for the AI age",
+  "author": {
+    "name": "joescorner",
+    "url": "https://github.com/joescorner"
+  },
+  "homepage": "https://joescorner.ai",
+  "repository": "https://github.com/joescorner/joescorner-skills",
+  "license": "MIT",
+  "keywords": ["news", "content", "feeds", "api"],
+  "skills": ["./skills/"]
+}

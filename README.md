@@ -15,6 +15,17 @@ Built on the [Agent Skills](https://agentskills.io) open standard.
 - [uv](https://docs.astral.sh/uv/getting-started/installation/) for running the bundled scripts
 
 
+## Installation
+
+### Claude Code
+
+In any Claude Code session, run:
+
+```
+/plugin install joescorner/joescorner-skills
+```
+
+
 ## Links
 
 - [Joe's Corner](https://joescorner.ai)
