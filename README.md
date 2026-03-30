@@ -26,6 +26,15 @@ In any Claude Code session, run:
 /plugin install joescorner-skills@joescorner-skills
 ```
 
+### Other agents
+
+Copy the `skills/joescorner/` directory into your agent's skills directory:
+
+```bash
+git clone https://github.com/joescorner/joescorner-skills.git
+cp -r joescorner-skills/skills/joescorner ~/.agents/skills/
+```
+
 
 ## Links
 
