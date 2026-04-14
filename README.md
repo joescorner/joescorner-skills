@@ -26,6 +26,14 @@ In any Claude Code session, run:
 /plugin install joescorner-skills@joescorner-skills
 ```
 
+### OpenClaw
+
+Available on [ClawHub](https://clawhub.ai/joescorner/joescorner). Install with:
+
+```
+openclaw skills install joescorner
+```
+
 ### Other agents
 
 Copy the `skills/joescorner/` directory into your agent's skills directory:
